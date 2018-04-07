@@ -2,7 +2,7 @@
 //  Settings.swift
 //  Finance
 //
-//  Created by student on 12/7/16.
+//  Created by Andrew/Paul on 12/7/16.
 //  Copyright © 2016 cs.eku.edu. All rights reserved.
 //
 

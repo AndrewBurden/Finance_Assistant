@@ -2,7 +2,7 @@
 //  HomeViewController.swift
 //  Finance
 //
-//  Created by Paul on 12/1/16.
+//  Created by Andrew/Paul on 12/1/16.
 //  Copyright © 2016 cs.eku.edu. All rights reserved.
 //
 

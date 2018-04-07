@@ -1,8 +1,8 @@
-//
+﻿//
 //  FinanceDB.swift
 //  Finance
 //
-//  Created by Paul on 12/6/16.
+//  Created by Andy/Paul on 12/6/16.
 //  Copyright © 2016 cs.eku.edu. All rights reserved.
 //
 

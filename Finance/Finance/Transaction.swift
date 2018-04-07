@@ -2,7 +2,7 @@
 //  Transaction.swift
 //  Finance
 //
-//  Created by Paul on 11/29/16.
+//  Created by Andrew/Paul on 11/29/16.
 //  Copyright © 2016 cs.eku.edu. All rights reserved.
 //  Code was copied from https://www.sitepoint.com/managing-data-in-ios-apps-with-sqlite/ and modified.
 //

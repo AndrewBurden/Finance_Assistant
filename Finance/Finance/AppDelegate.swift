@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Finance
 //
-//  Created by Paul on 11/29/16.
+//  Created by Andrew/Paul on 11/29/16.
 //  Copyright © 2016 cs.eku.edu. All rights reserved.
 //
 
